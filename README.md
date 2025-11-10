@@ -8,7 +8,7 @@ In this Azure-based DNS exploration project, DNS (Domain Name System) translates
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+- ### [YouTube: Azure DNS Fundamentals : Managing A Records, CNAMEs, and DNS Cache](https://www.youtube.com/watch?v=NE--I7QS-uo)
 
 <h2>Environments and Technologies Used</h2>
 
